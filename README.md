@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 I am a frontend developer who follows current web technologies and loving developing full stack apps.
 
-Besides frontend technologies, I am also interested in Blockchain, Web3 and Python.  
+Besides frontend technologies, I am also interested in Backend and DevOps technologies.  
   
 
 <br/>  
